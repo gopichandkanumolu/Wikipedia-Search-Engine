@@ -1,0 +1,3 @@
+Index Size 15.3 GB
+Index Creation Time 16 Hours
+Number of Intermediate Files 1987
